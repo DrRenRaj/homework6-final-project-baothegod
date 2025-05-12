@@ -3,7 +3,8 @@ package hw6;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+//comment
+//comment2
 //Add other classes here or separate java files in same package
 class Book {
 	//Fields
